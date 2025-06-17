@@ -200,7 +200,7 @@ const Hero = () => {
               <div className="space-y-4">
                 <h3 className="text-white text-lg font-semibold mb-4">Write Code</h3>
                 <div className="bg-slate-800 rounded-lg p-4 font-mono text-sm">
-                  <div className="text-blue-400">&lt;div className=<span className="text-green-400">"hero"</span>&gt;</div>
+                  <div className="text-blue-400">&lt;div className=<span className="text-green-400">&quot;"hero"&quot;</span>&gt;</div>
                   <div className="text-white ml-4">&lt;h1&gt;Hello World!&lt;/h1&gt;</div>
                   <div className="text-white ml-4">&lt;p&gt;Welcome to coding&lt;/p&gt;</div>
                   <div className="text-blue-400">&lt;/div&gt;</div>
