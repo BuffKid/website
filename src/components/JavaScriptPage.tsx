@@ -890,7 +890,7 @@ const JavaScriptPage = () => {
                 >
                   <h4 className="font-semibold text-yellow-800 dark:text-yellow-300 mb-2">🚀 JavaScript Pro Tips:</h4>
                   <ul className="text-sm text-yellow-700 dark:text-yellow-400 space-y-1">
-                    <li>• Use const for values that won't change, let for variables that will</li>
+                    <li>• Use const for values that won&apos;t change, let for variables that will</li>
                     <li>• Always handle errors with try/catch blocks in async operations</li>
                     <li>• Use array methods like map(), filter(), and reduce() for cleaner code</li>
                     <li>• Modern browsers support ES6+ features - embrace arrow functions and destructuring</li>
