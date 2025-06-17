@@ -118,7 +118,7 @@ const Hero = () => {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
-              <Button variant="outline" size="lg" className="text-lg px-8 py-6 rounded-xl border-2 hover:bg-slate-50 dark:hover:bg-slate-800">
+              <Button variant="outline" size="lg" className="text-lg px-8 py-6 rounded-xl border-2 hover:bg-slate-50 dark:hover:bg-slate-800" onClick={() => window.open('https://divin2009.github.io/tunnelvision/', '_blank')}>
                 <Globe className="mr-2 h-5 w-5" />
                 View Demo
               </Button>
